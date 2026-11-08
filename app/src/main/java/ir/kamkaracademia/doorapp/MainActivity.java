@@ -31,8 +31,8 @@ import androidx.core.content.ContextCompat;
 public class MainActivity extends AppCompatActivity {
 
     // Door app URL on production site
-    private static final String APP_URL = "https://kamkar-academia.ir/?farava_door_app=1";
-
+private static final String APP_URL = "https://kamkar-academia.ir/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%ad%d8%b6%d9%88%d8%b1-%d9%88-%d8%ba%db%8c%d8%a7%d8%a8-%d8%a7%d9%be%d8%b1%d8%a7%d8%aa%d9%88%d8%b1-%d8%b3%d8%a7%d9%84%d9%86/";
+    
     private static final int REQ_CAMERA = 1001;
 
     private WebView webView;
